@@ -1,1 +1,2 @@
 # MagicTricks
+# Quick-Maths
